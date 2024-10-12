@@ -14,7 +14,7 @@ export default {
         login_title: '登录以继续',
         password_placeholder: '密码',
         login_button: '登录',
-        setting_success: '设置成功',
+        setting_success: '登录成功',
     },
     page_title: {
         index: '主页',

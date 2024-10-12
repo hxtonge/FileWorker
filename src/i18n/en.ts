@@ -14,7 +14,7 @@ export default {
         login_title: 'Login to continue',
         password_placeholder: 'Password',
         login_button: 'Login',
-        setting_success: 'Setting success',
+        setting_success: 'Login success',
     },
     page_title: {
         index: 'Index',
